@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ThiagoNhimi
-- 👀 I’m interested in  to me tornar um programador fullstack em JS
+- 👀 I’m interested in  to become a full stack JS programmer
 - 🌱 I’m currently learning Java Script
-- 💞️ I’m looking to collaborate on desenvolvimento de aplicações
+- 💞️ I’m looking to collaborate on application development
 - 📫 How to reach me  - LinkedIn: Thiago Martins Nhimi
 
 <!---
